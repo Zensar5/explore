@@ -15,6 +15,6 @@ items:
  - gitpod-io/gitpod
  - gnustep/apps-gorm
  - koalaman/shellcheck
-display_name: Software development tools
+ - SQL Developer/oracle: Software development tools
 ---
 Build apps better, faster, stronger.
